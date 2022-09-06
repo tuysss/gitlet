@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: CS61B:jetty-http-9.4.15.v20190215.jar:9.4.15">
+    <CLASSES>
+      <root url="jar://C:/Program Files/apache-maven-3.8.5/maven-repo/CS61B/jetty-http-9.4.15.v20190215.jar/9.4.15/jetty-http-9.4.15.v20190215.jar-9.4.15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Program Files/apache-maven-3.8.5/maven-repo/CS61B/jetty-http-9.4.15.v20190215.jar/9.4.15/jetty-http-9.4.15.v20190215.jar-9.4.15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Program Files/apache-maven-3.8.5/maven-repo/CS61B/jetty-http-9.4.15.v20190215.jar/9.4.15/jetty-http-9.4.15.v20190215.jar-9.4.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
